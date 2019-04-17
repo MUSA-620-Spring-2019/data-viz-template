@@ -16,10 +16,10 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "MUSA 620: Data Wrangling and Data Visualization"
+title: "Amenitization vs. Real Estate Values vs. Demographics"
 title_separator: "-"
-name: "Nick Hand"
-description: "Displaying cool data visualizations"
+name: "Jibran Khan & Victoria Goodman"
+description: "Correlating urban amenities with their home values and local demographics"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
